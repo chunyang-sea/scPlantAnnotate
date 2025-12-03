@@ -49,3 +49,14 @@ python eval.py --model_path checkpoint.pth --data_path test.h5ad --gene_embed
 # test model trained with condition embedding
 python eval.py --model_path checkpoint.pth --data_path test.h5ad --condition_embed --conditiontype_path output_conditions.list
 
+```
+## Pretrained model weights
+```
+pretrained scPlantAnnotate model for Arabidopsis is at https://mailmissouri-my.sharepoint.com/:u:/g/personal/clcdp_umsystem_edu/ERx8wgCeZmtMhuHo9NBBDVMBtejK5dUxKnohF45GzUcuWQ?e=hxk38Y
+
+```
+
+## Dataset information
+```
+information about dataset, tissue, celltypes that have been used to train scPlantAnnotate models are located in data folder
+```
