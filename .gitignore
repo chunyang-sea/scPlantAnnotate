@@ -1,1 +1,20 @@
+# Python
 __pycache__/
+*.pyc
+*.pyo
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch
+*.pt
+*.pth
+
+# OS junk
+.DS_Store
+Thumbs.db
