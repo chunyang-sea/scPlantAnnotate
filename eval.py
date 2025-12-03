@@ -36,7 +36,7 @@ parser.add_argument("--h_dim", type=int, default=128, help='hidden dimension in 
 parser.add_argument("--batch_size", type=int, default=1, help='Number of batch size.')
 parser.add_argument("--data_path", type=str, default='', help='Path of data for evaluation.')
 parser.add_argument("--dataset", type=str, default='', help='dataset for evaluation.')
-parser.add_argument("--model_path", type=str, default='', help='Path of pretrained model.')
+parser.add_argument("--model_path", type=str, default='', help='model checkpoint path.')
 parser.add_argument("--gene_embed", action="store_true", help='Using gene embedding or not.')
 parser.add_argument("--condition_embed", action="store_true", help='Using condition embedding or not.')
 parser.add_argument("--condition_column", type=str, default='Dataset', help='adata.obs column name for condition embedding.')

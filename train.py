@@ -455,7 +455,6 @@ if __name__ == "__main__":
     parser.add_argument("--data_path_val", type=str, default='', help='Path of data for validation.')
     parser.add_argument("--dataset_val", type=str, default='all_tissues_hvg20k_val.h5ad', help='dataset to use for validation.')
     parser.add_argument("--dataset_val_exclude", type=str, default='', help='dataset to exclude from validation.')
-    parser.add_argument("--model_path", type=str, default='', help='Path of pretrained model.')
     parser.add_argument("--ckpt_dir", type=str, default='.', help='Directory of checkpoint to save.')
     parser.add_argument("--model_name", type=str, default='unified', help='Finetuned model name.')
     parser.add_argument("--log_file", type=str, default='log.txt', help='log file path')
