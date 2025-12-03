@@ -1,0 +1,10 @@
+Dataset	Tissue	#Celltypes	Celltypes
+SRP145013	Root tip	9	Root cap,Root cortex,Root endodermis,Root epidermis,Root pith,Root stele,Stem cell niche,Unknow,Xylem
+SRP224648	Leaf	3	Bundle sheath,Mesophyll,Unknow
+SRP266308_1	Vegetative shoot apex	5	Leaf primordium,Shoot apical meristem,Shoot system epidermis,Unknow,Vascular tissue
+SRP272727_23_26	Ear inflorescence	10	Adaxial meristem periphery,Bundle sheath,Cortex,Meristem base,Meristem boundary,Meristem epidermis,Phloem,Pith,Unknow,Xylem
+SRP281914	Leaf	2	Bundle sheath,Mesophyll
+SRP325657_1	Leaf base	4	Leaf epidermis,Leaf primordium,Unknow,Vascular tissue
+SRP325657_2	Leaf abaxial mature peel (Pv3a),Leaf abaxial mature peel (Pv2),Leaf abaxial mature peel (Pv3b)	6	Bundle sheath,Leaf guard cell,Leaf subsidiary cell,Mesophyll,Pavement cell-A,Pavement cell-N
+SRP335180	Root tip	13	Companion cell,Meristematic cell,Pericycle,Protophloem,Root cap,Root cortex,Root endodermis,Root epidermis,Root exodermis,Root hair,Root stele,Unknow,Xylem
+SRP417893	Leaf primordia	5	Leaf primordium,Leaf rim,Shoot system epidermis,Unknow,Vascular tissue

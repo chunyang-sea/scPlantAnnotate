@@ -1,0 +1,27 @@
+Dataset	Tissue	#Celltypes	Celltypes
+SRP166333	Whole root	12	Companion cell,Metaxylem,Non-hair,Phloem pole pericycle,Protoxylem,Root cap,Root cortex,Root endodermis,Root hair,Root procambium,Sieve element,Xylem pole pericycle
+SRP171040	Root tip	12	Columella root cap,Lateral root cap,Meristematic cell,Non-hair,Pericycle,Phloem,Root cortex,Root endodermis,Root hair,Root stele,Stem cell niche,Xylem
+SRP173393	Root tip	11	Columella root cap,Lateral root cap,Non-hair,Root cap,Root cortex,Root endodermis,Root epidermis,Root hair,Root stele,Sieve element,Xylem
+SRP182008	Root tip	11	Columella root cap,Companion cell,Lateral root cap,Metaxylem,Protoxylem,Root cortex,Root endodermis,Root epidermis,Root hair,Root stele,Sieve element
+SRP235541	Root tip	16	Columella root cap,Companion cell,Lateral root cap,Meristematic cell,Metaxylem,Non-hair,Phloem parenchyma,Phloem pole pericycle,Protoxylem,Root cortex,Root endodermis,Root hair,Root procambium,Root stele,Sieve element,Xylem pole pericycle
+SRP247828_1	Cotyledon	7	Bundle sheath,Leaf guard cell,Leaf pavement cell,Palisade mesophyll,Phloem,Spongy mesophyll,Xylem
+SRP247828_2	Cotyledon,True leaf	8	Bundle sheath,Companion cell,Leaf guard cell,Leaf pavement cell,Palisade mesophyll,Phloem parenchyma,Spongy mesophyll,Xylem
+SRP247828_3	Cotyledon	7	Companion cell,Leaf guard cell,Leaf pavement cell,Palisade mesophyll,Phloem parenchyma,Spongy mesophyll,Xylem
+SRP253497	Rosette-Leaf explant	8	Bundle sheath,Companion cell,Leaf epidermis,Leaf guard cell,Meristematic cell,Mesophyll,Phloem parenchyma,Xylem
+SRP267870	Root tip	13	Columella root cap,Lateral root cap,Metaxylem,Non-hair,Phloem,Phloem pole pericycle,Protoxylem,Root cap,Root cortex,Root endodermis,Root hair,Root procambium,Xylem pole pericycle
+SRP273996	Root	12	Columella root cap,Companion cell,Lateral root cap,Non-hair,Pericycle,Phloem,Root cortex,Root endodermis,Root hair,Root procambium,Stem cell niche,Xylem
+SRP280069	Leaf	5	Bundle sheath,Leaf guard cell,Leaf pavement cell,Mesophyll,Vascular tissue
+SRP285817	Root outside the meristem	18	Columella root cap,Companion cell,Lateral root cap,Lateral root primordia,Metaxylem,Non-hair,Phloem pole pericycle,Protoxylem,Root cap,Root cortex,Root endodermis,Root epidermis,Root hair,Root procambium,Root stele,Sieve element,Stem cell niche,Xylem pole pericycle
+SRP292306	Leaf	7	Bundle sheath,Companion cell,Hydathodes,Leaf guard cell,Leaf pavement cell,Mesophyll,Phloem parenchyma
+SRP307169	True leaf	6	Bundle sheath,Leaf epidermis,Leaf guard cell,Leaf pavement cell,Mesophyll,Vascular tissue
+SRP320285	Inflorescence	7	Cortex,Flower meristem,Mesophyll,Phloem,Shoot system epidermis,Vascular cambium,Xylem
+SRP330542	Root tip	13	Columella root cap,Companion cell,Lateral root cap,Metaxylem,Phloem pole pericycle,Protoxylem,Root cortex,Root endodermis,Root epidermis,Root hair,Root stele,Sieve element,Xylem pole pericycle
+SRP332285	Root phloem tissue	9	Columella root cap,Companion cell,Lateral root cap,Non-hair,Phloem parenchyma,Phloem pole pericycle,Root endodermis,Root procambium,Sieve element
+SRP338044	True leaf	9	Bundle sheath,Companion cell,Hydathodes,Leaf guard cell,Leaf pavement cell,Mesophyll,Phloem parenchyma,Sieve element,Xylem
+SRP374045	Pollen	4	Generative nuclei,Microspore nuclei,Sperm nuclei,Vegetative nuclei
+SRP394711	Root tip	12	Columella root cap,Companion cell,Lateral root cap,Metaxylem,Non-hair,Phloem,Protoxylem,Root cortex,Root endodermis,Root hair,Root procambium,Sieve element
+SRP398011	Leaf	5	Companion cell,Leaf guard cell,Mesophyll,Phloem parenchyma,Xylem
+CRA002977_1	True leaf	6	Companion cell,Leaf guard cell,Leaf pavement cell,Mesophyll,Phloem parenchyma,Xylem
+CRA002977_2	Vegetative shoot apex	6	Companion cell,Guard cell,Mesophyll,Shoot apical meristem,Shoot system epidermis,Vascular tissue
+DRP009643	Rosette leaf	6	Companion cell,Leaf guard cell,Leaf pavement cell,Mesophyll,Sieve element,Vascular tissue
+ERP132245	True leaf	6	Hydathodes,Leaf guard cell,Leaf pavement cell,Mesophyll,Phloem,Xylem

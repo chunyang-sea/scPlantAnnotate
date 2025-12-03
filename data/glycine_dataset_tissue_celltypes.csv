@@ -1,0 +1,11 @@
+Dataset	Tissue	#Celltypes	Celltypes
+flowerbud	flowerbud	10	Cell cycle,Cortex,Dividing cells,Epidermis,Floral meristem,MesophyII,Parenchyma/Phloem,Procambium,Unknown,Xylem
+greenpod	greenpod	8	Bundle sheath,Cell cycle,Epidermis,Guard cells,MesophyII,Senescing cells,Unknown,Vascular
+nodule	nodule	7	Infection cell,Inner/outer cortex,Sclereid layer,Senescing cells,Uninfected cells,Vascular bundle,Vascular endodermis
+root	root	9	Cambium,Cortex,Dividing cells,Endodermis,Epidermis,Pericycle,Phloem,Phloem fiber,Xylem
+sam	sam	11	Cell cycle,Companion cells,Cortex,Dividing cells,Epidermis,Guard cells,MesophyII,Parenchyma,Shoot meristematic cells,Unknown,Vascular
+seedcot	seedcot	12	Cell cycle,Dividing cells,Embryo proper,Endosperm,Endothelium,Epidermis,Hilum,Inner integument,Outer integument,Suspensor,Unknown,Vascular
+seedheart	seedheart	12	Cell cycle,Dividing cells,Embryo proper,Endosperm,Endothelium,Epidermis,Hilum,Inner integument,Outer integument,Suspensor,Unknown,Vascular
+seedlm	seedlm	9	Cell cycle,Cotyledon Vascular,Embryo,Endosperm,Epidermis seed coat PS,Epidermis seed coat SCHI,Epidermis seed coat SCPY,Protein & lipid storage,Unknown
+trifoliate	trifoliate	9	Bundle sheath,Companion cells,Epidermis,Guard cells,Hydathode cells,MesophyII,Senescing cells,Unknown,Vascular
+trueleaf	trueleaf	9	Bundle sheath,Cell cycle,Companion cells,Epidermis,Guard cells,MesophyII,Senescing cells,Unknown,Vascular

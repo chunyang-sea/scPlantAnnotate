@@ -1,0 +1,6 @@
+Dataset	Tissue	#Celltypes	Celltypes
+CRA004082	Root;Leaf,Leaf,Root	14	Epidermis,Fiber cell,Initial cell,Mesophyll/Cortex,Mestome sheath,Parenchyma,Pericycle,Phloem,Procambium,Root exodermis/Sclerenchym,Root stele,Unknow,Vascular tissue,Xylem
+SRP250946	Root tip	9	Metaxylem,Protoxylem,Root cap,Root cortex,Root endodermis,Root epidermis,Root hair,Root stele,Sclerenchyma
+SRP286275	Leaf	4	Initial cell,Leaf epidermis,Mesophyll,Vascular tissue
+SRP309176	Root tip	13	Exodermis,Meristematic cell,Metaxylem,Pericycle,Phloem,Protoxylem,Root cap,Root cortex,Root endodermis,Root epidermis,Root hair,Root stele,Sclerenchyma
+SRP386976	Pistil	12	CT-Ovule,Integument,Nucellus,Outer ovary wall,Ovary wall,Ovule,S-Ovule,Stamen residue,Stigma,Style,Unknow,Vascular tissue
