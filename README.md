@@ -52,7 +52,7 @@ python eval.py --model_path checkpoint.pth --data_path test.h5ad --condition_emb
 ```
 ## Pretrained model weights
 ```
-pretrained scPlantAnnotate model for Arabidopsis is at https://mailmissouri-my.sharepoint.com/:u:/g/personal/clcdp_umsystem_edu/ERx8wgCeZmtMhuHo9NBBDVMBtejK5dUxKnohF45GzUcuWQ?e=hxk38Y
+pretrained scPlantAnnotate models can be downloaded from https://mailmissouri-my.sharepoint.com/:f:/g/personal/clcdp_umsystem_edu/Eu4e_4gD515Nv0YC4lxAyPkB9oroYJoJErM1P3vTwgd4Sg?e=AJbHh0
 
 ```
 
