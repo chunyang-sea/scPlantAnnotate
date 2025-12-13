@@ -13,7 +13,7 @@ cd scPlantAnnotate
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 # Install dependencies for data processing, ML
-pip install pandas scanpy anndata scipy scikit-learn tensorboard
+pip install pandas scanpy anndata scipy scikit-learn tensorboard einops local_attention
 ```
 
 ## Usage
