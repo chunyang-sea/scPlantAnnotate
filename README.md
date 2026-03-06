@@ -60,3 +60,8 @@ pretrained scPlantAnnotate models can be downloaded from https://mailmissouri-my
 ```
 information about dataset, tissue, celltypes that have been used to train scPlantAnnotate models are located in data folder
 ```
+## Citation of the paper
+```
+Lu, C., Immadi, M. S., Chan, Y. O., Dhakal, S., Xu, D., Libault, M., & Joshi, T. (2026). ScPlantAnnotate: An accurate and robust transformer-based model for plant cell type annotation. Journal of Advanced Research. https://doi.org/10.1016/j.jare.2026.01.035
+```
+
